@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casino-de-leucate.com/
+Sitemap: https://casino-de-leucate.com/sitemap.xml

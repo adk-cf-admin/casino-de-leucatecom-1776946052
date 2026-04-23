@@ -1,0 +1,19 @@
+{
+  "name": "Circus Leucate",
+  "short_name": "Circus Leucate",
+  "theme_color": "",
+  "background_color": "#1A1C1E",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1776945490-cropped-circus-casino-fr-favicon-32x32.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
